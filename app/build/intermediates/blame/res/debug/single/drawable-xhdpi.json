@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\work\\workspace\\PopupMenu-master\\PopupMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_popupwin_menu_bg.9.png",
+        "source": "C:\\work\\workspace\\PopupMenu-master\\PopupMenu\\app\\src\\main\\res\\drawable-xhdpi\\icon_popupwin_menu_bg.9.png"
+    },
+    {
+        "merged": "C:\\work\\workspace\\PopupMenu-master\\PopupMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\work\\workspace\\PopupMenu-master\\PopupMenu\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\work\\workspace\\PopupMenu-master\\PopupMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_xx.png",
+        "source": "C:\\work\\workspace\\PopupMenu-master\\PopupMenu\\app\\src\\main\\res\\drawable-xhdpi\\img_xx.png"
+    },
+    {
+        "merged": "C:\\work\\workspace\\PopupMenu-master\\PopupMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\menu_icon.png",
+        "source": "C:\\work\\workspace\\PopupMenu-master\\PopupMenu\\app\\src\\main\\res\\drawable-xhdpi\\menu_icon.png"
+    },
+    {
+        "merged": "C:\\work\\workspace\\PopupMenu-master\\PopupMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_popupmenu_bg.9.png",
+        "source": "C:\\work\\workspace\\PopupMenu-master\\PopupMenu\\app\\src\\main\\res\\drawable-xhdpi\\img_popupmenu_bg.9.png"
+    }
+]

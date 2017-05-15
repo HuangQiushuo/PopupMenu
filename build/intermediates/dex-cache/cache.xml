@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\work\workspace\PopupMenu-master\PopupMenu\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="9d4b236a430174e374ae00ae26976125ed6df714">
+        <dex dex="C:\work\workspace\PopupMenu-master\PopupMenu\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_976577a2801eb71ab4c5f95bd286f41c48110212\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\work\workspace\PopupMenu-master\PopupMenu\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\work\workspace\PopupMenu-master\PopupMenu\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_a7b31d7e24f448075c976f602dbe925bfcf762fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\work\workspace\PopupMenu-master\PopupMenu\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\work\workspace\PopupMenu-master\PopupMenu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_507405cfd245e52425f5bc736575f0db050742c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\work\workspace\PopupMenu-master\PopupMenu\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="29b78e4349b2da3a33176405d2d250d811c50177">
+        <dex dex="C:\work\workspace\PopupMenu-master\PopupMenu\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ac8e8fe2c21f86cb68f01ecf440a9693ed34ab05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\work\workspace\PopupMenu-master\PopupMenu\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\work\workspace\PopupMenu-master\PopupMenu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_b4fa20f430337b9da9ecd16bbe4d30b2cc55814b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\37925\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\work\workspace\PopupMenu-master\PopupMenu\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_0d347ca80fac9dba9be1edf14f9d6df233d0a85b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\work\workspace\PopupMenu-master\PopupMenu\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\work\workspace\PopupMenu-master\PopupMenu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_0fed77ad1d394d1ec3653cbcfd00e8590397710f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\work\workspace\PopupMenu-master\PopupMenu\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\work\workspace\PopupMenu-master\PopupMenu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_1d36ee8b911cace7ed3a636dda01e4934a0ffe94\classes.dex" />
+    </item>
+
+</items>

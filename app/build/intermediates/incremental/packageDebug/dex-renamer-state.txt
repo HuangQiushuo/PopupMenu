@@ -1,0 +1,7 @@
+#Mon May 15 13:57:11 AEST 2017
+base.0=C\:\\work\\workspace\\PopupMenu-master\\PopupMenu\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ac8e8fe2c21f86cb68f01ecf440a9693ed34ab05
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\work\\workspace\\PopupMenu-master\\PopupMenu\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_976577a2801eb71ab4c5f95bd286f41c48110212\\classes.dex
+base.1=C\:\\work\\workspace\\PopupMenu-master\\PopupMenu\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_976577a2801eb71ab4c5f95bd286f41c48110212
+file.0=C\:\\work\\workspace\\PopupMenu-master\\PopupMenu\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ac8e8fe2c21f86cb68f01ecf440a9693ed34ab05\\classes.dex
